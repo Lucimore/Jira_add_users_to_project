@@ -56,4 +56,5 @@ jiraSession = requests.Session()
 jiraSession.post(baseURL + '/rest/auth/1/session', auth=(login, password))
 ft_add_user_to_project()
 if len(errors):
+    print("Failed to add these users:")
     print(errors)
