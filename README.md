@@ -3,5 +3,5 @@
 2. Copy users email to the file mail.txt\
 Example:\
 abc@mail.com\
-def@mail.com\
+def@mail.com
 3. Run script.
