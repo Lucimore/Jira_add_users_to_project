@@ -5,6 +5,7 @@
 Example:
 
 abc@mail.com
+
 def@mail.com
 
 3. Run script.
