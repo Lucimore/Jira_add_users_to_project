@@ -2,7 +2,7 @@
 1. Fill up the credentials.
 2. Copy users email to the file mail.txt
 Example:
-abc@mail.com
 
+abc@mail.com
 def@mail.com
 3. Run script.
