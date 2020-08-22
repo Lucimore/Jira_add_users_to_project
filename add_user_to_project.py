@@ -7,7 +7,7 @@ password = "my_jira_password"
 baseURL = 'http://my-jira-url.com'
 
 project = 'MYPROJECT'
-role = '99999'  # 10001 - Developers; 10000 - Users - You can find it here: System - Security - Project roles - hover over edit role - You wiil find ID.
+role = '99999'  # 10001 - Developers; 10000 - Users; You can find it here: System - Security - Project roles - hover over edit role - You wiil find ID.
 
 jira = JIRA(
     basic_auth=(login, password),
