@@ -2,12 +2,12 @@ from jira import JIRA
 import requests
 import json
 
-login = "kibardin.dmitrij"
+login = ""
 password = ""
-baseURL = 'https://job-jira.otr.ru'
+baseURL = ''
 
-project = 'PMEB'
-role = '10001'  # 10001 - Developers; 10000 - Users
+project = ''
+role = ''  # 10001 - Developers; 10000 - Users
 
 jira = JIRA(
     basic_auth=(login, password),
